@@ -19,4 +19,10 @@ void keyPressed() {
   if (key=='2') { 
     d = new Ko();
   }
+  if (key=='3') { 
+    d = new Fisk();
+  }
+  if (key=='4') { 
+    d = new Kenguru();
+  }
 }
