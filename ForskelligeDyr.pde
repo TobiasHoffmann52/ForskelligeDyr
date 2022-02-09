@@ -1,4 +1,4 @@
-//ArrayList<Dyr> dyrListe = new ArrayList<Dyr>();
+ArrayList<Dyr> dyrListe = new ArrayList<Dyr>();
 Dyr d;
 
 void setup() {
@@ -23,6 +23,6 @@ void keyPressed() {
     d = new Fisk();
   }
   if (key=='4') { 
-    d = new Kenguru();
+    d = new Skydiver();
   }
 }
