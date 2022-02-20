@@ -2,7 +2,6 @@ class Skydiver extends Dyr {
 
   Skydiver() {
     p = loadImage("skydiver.png");
-    
   }
 
   void move() {
