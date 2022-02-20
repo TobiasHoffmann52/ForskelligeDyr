@@ -1,4 +1,4 @@
-ArrayList<Dyr> dyrListe = new ArrayList<Dyr>();
+//ArrayList<Dyr> dyrListe = new ArrayList<Dyr>();
 Dyr d;
 
 void setup() {

@@ -28,4 +28,5 @@
 
   7.) På linje 1 under "ForskelligeDyr" er der en ArrayList. Omskriv koden så dyr indsættes i ArrayListen 
   og der kan vises flere dyr på samme tid. (lidt svær)
+  Jeg kan ikke få det til at fungere...
 */
